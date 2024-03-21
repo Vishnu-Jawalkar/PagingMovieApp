@@ -38,6 +38,9 @@ To run the PagingMovieApp on your Android device or emulator, follow these steps
 
 https://drive.google.com/file/d/11SUeXhtje4sTVSfj1-DF9cDa-Dpxqh2l/view?usp=sharing
 
+
+
+
 ![Screenshot 2024-03-21 160601](https://github.com/Vishnu-Jawalkar/PagingMovieApp/assets/127928260/867487e0-68db-4810-babf-fcefdbff3a6f)
 
 
